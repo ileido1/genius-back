@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development env
+.env
+.env.*
+
+# Django generated files
+db.sqlite3
+media/
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
+venv3/
+*.venv/
+env/
+env3/
+.venv/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
